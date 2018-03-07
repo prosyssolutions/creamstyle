@@ -1,0 +1,8 @@
+{
+  "name": "creamstyle",
+  "app_id": "48d04e20",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
