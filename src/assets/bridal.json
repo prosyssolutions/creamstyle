@@ -1,0 +1,165 @@
+[
+    {
+            "name" : "Vitamin A",
+            "id" : "V-A1037",
+            "price" : 4.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : false,
+            "gender" : "male",
+            "image" : "assets/images/bridal/bridal.jpg"
+
+    },
+    {
+            "name" : "Vitamin B-Complex",
+            "id" : "V-BC2178",
+            "price" : 6.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : false,
+            "gender" : "male",
+            "image" : "assets/images/bridal/bridal2.jpg"
+    },
+    {
+            "name" : "Blueberry Mineral Water",
+            "id" : "MW-8812",
+            "price" : 5.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : false,
+            "gender" : "male",
+            "image" : "assets/images/bridal/bridal3.jpg"
+    },
+    {
+            "name" : "Vitamin C",
+            "id" : "V-C6614",
+            "price" : 8.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : false,
+            "gender" : "male",
+            "image" : "assets/images/bridal/bridal4.jpg"
+    },
+    {
+            "name" : "Chocolate Protein Bar",
+            "id" : "PB-8154",
+            "price" : 3.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : false,
+            "gender" : "male",
+            "image" : "assets/images/bridal/bridal5.jpg"
+    },
+    {
+            "name" : "Calcium Vitamin",
+            "id" : "V-CA4543",
+            "price" : 12.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : false,
+            "gender" : "male",
+            "image" : "assets/images/bridal/bridal6.jpg"
+    },
+    {
+            "name" : "Vitamin D",
+            "id" : "V-D1825",
+            "price" : 9.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : false,
+            "gender" : "male",
+            "image" : "assets/images/bridal/bridal7.jpg"
+    },
+    {
+            "name" : "Flaxseed Oil Vitamin",
+            "id" : "V-F2225",
+            "price" : 6.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : true,
+            "gender" : "male",
+            "image" : "assets/images/bridal/bridal8.jpg"
+    },
+    {
+            "name" : "Iron Vitamin",
+            "id" : "V-I7456",
+            "price" : 7.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : true,
+            "gender" : "male",
+            "image" : "assets/images/bridal/bridal9.jpg"
+    },
+    {
+            "name" : "Lemon Lime Mineral Water",
+            "id" : "MW-9143",
+            "price" : 2.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : true,
+            "gender" : "male",
+            "image" : "assets/images/bridal/bridal10.jpg"
+    },
+    {
+            "name" : "Magnesium Vitamin",
+            "id" : "V-M0019",
+            "price" : 6.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : true,
+            "gender" : "male",
+            "image" : "assets/images/bridal/bridal11.jpg"
+    },
+    {
+            "name" : "Multi-vitamin",
+            "id" : "V-MV7763",
+            "price" : 9.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : false,
+            "gender" : "male",
+            "image" : "assets/images/bridal/bridal12.jpg"
+    },
+    {
+            "name" : "Peanut Butter Protein Bar",
+            "id" : "PB-1234",
+            "price" : 3.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : true,
+            "gender" : "male",
+            "image" : "assets/images/products/proteinbar-peanutbutter.jpg"
+    },
+    {
+            "name" : "Strawberry Mineral Water",
+            "id" : "MW-S0987",
+            "price" : 2.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : true,
+            "gender" : "male",
+            "image" : "assets/images/products/mineralwater-strawberry.jpg"
+    },
+    {
+            "name" : "Lemon Protein Bar",
+            "id" : "PB-1919",
+            "price" : 3.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : true,
+            "gender" : "male",
+            "image" : "assets/images/products/proteinbar-lemon.jpg"
+    },
+    {
+            "name" : "Orange Mineral Water",
+            "id" : "MW-O1980",
+            "price" : 2.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : true,
+            "gender" : "female",
+            "image" : "assets/images/products/mineralwater-orange.jpg"
+    },
+    {
+            "name" : "Peach Mineral Water",
+            "id" : "MW-P1968",
+            "price" : 2.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : true,
+            "gender" : "female",
+            "image" : "assets/images/products/mineralwater-peach.jpg"
+    },
+    {
+            "name" : "Raspberry Mineral Water",
+            "id" : "MW-R2003",
+            "price" : 2.99,
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "bestSeller" : true,
+            "gender" : "female",
+            "image" : "assets/images/products/mineralwater-raspberry.jpg"
+    }        
+]
