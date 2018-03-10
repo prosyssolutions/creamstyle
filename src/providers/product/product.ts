@@ -14,7 +14,7 @@ export class ProductProvider {
     console.log('Hello ProductProvider Provider');
   }
 
-  getProducts(){
+  getBridals(){
   	return this.http.get<any[]>('/assets/bridal.json')
   }
 
