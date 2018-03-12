@@ -6,7 +6,7 @@ import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import { ListPage } from '../pages/list/list';
 import { BridalPage } from '../pages/bridal/bridal';
-
+import { BridalslideshowPage } from '../pages/bridalslideshow/bridalslideshow';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { HttpClientModule } from '@angular/common/http';
@@ -17,7 +17,8 @@ import { ProductProvider } from '../providers/product/product';
     MyApp,
     HomePage,
     ListPage,
-    BridalPage
+    BridalPage,
+    BridalslideshowPage
   ],
   imports: [
     HttpClientModule,
@@ -29,7 +30,8 @@ import { ProductProvider } from '../providers/product/product';
     MyApp,
     HomePage,
     ListPage,
-    BridalPage
+    BridalPage,
+    BridalslideshowPage
   ],
   providers: [
     StatusBar,

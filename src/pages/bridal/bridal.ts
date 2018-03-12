@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
+
+import { ProductProvider } from '../../providers/product/product';
 /**
  * Generated class for the BridalPage page.
  *
@@ -17,7 +19,7 @@ export class BridalPage {
 
 	public bridalDetails = {};
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  constructor(private productProvider:ProductProvider ,public navCtrl: NavController, public navParams: NavParams) {
   
   		this.bridalDetails = this.navParams.get("bridalDetails");
   		console.log(this.bridalDetails);
